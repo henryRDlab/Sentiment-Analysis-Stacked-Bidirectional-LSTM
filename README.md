@@ -4,7 +4,7 @@ In this work, we propose a Chinese sentiment analysis method by incorporating a 
 Please refer to our paper for more technical details. https://ieeexplore.ieee.org/document/8667413
 
 ## Cite and Acknowledgement
-Please cite our paper when you use this dataset. The main part of algorithm was proposed and implemented by Yue Lu who is a Ph.D. student at University of California, Riverside. 
+Please cite our paper when you use this dataset. The main part of algorithm was proposed and implemented by Yue Lu who was an undergraduate student in Faculty of Information Technology, Macau University of Science and Technology and is now a Ph.D. student at University of California, Riverside. 
 
 #### [Plain Text]
 ```
